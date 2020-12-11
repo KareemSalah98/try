@@ -2,6 +2,7 @@
   <dictionary name="Mr.Code">
     <words>
       <w>callforgetpassword</w>
+      <w>confirmforgetpassword</w>
       <w>forgetpassword</w>
     </words>
   </dictionary>
